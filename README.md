@@ -47,3 +47,25 @@ Given an equation ax^2 + bx + c = 0. Find solution to the given equation.
 
 Given two positive integers k and n. Compute C(k,n) which is the number of ways to select k objects from a given set of n objects.
 
+### Problem 2: Binary sequence generation
+
+Given an integer n, write a program that generates all the binary sequences of length n in a lexicographic order.
+
+### Problem 3: Binary sequences generation without consecutive 11
+
+Given an integer n, write a program that generates all binary sequences without consecutive 11 in a lexicographic order.
+
+### Problem 4: Permutation generation
+
+Given an integer n, write a program to generate all permutations of 1, 2, ..., n in a lexicalgraphic order (elements of a permutation are separated by a SPACE character).
+
+### Problem 5: Count number of sudoku solutions
+
+Write a program to compute the number of sudoku solutions (fill the zero elements of a given partial sudoku table)
+Fill numbers from 1, 2, 3, .., 9 to 9 x 9 table so that:
+* Numbers of each row are distinct
+* Numbers of each column are distinct
+* Numbers on each sub-square 3 x 3 are distinct
+
+## Week 3
+
