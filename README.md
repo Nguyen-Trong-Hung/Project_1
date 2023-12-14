@@ -56,10 +56,13 @@ gitlog -decorate -graph -oneline
 * Bạn phải biết Git để sử dụng: GitHub được xây dựng trên nền tảng Git, do đó nếu bạn không quen thuộc với Git, sẽ khó khăn để sử dụng GitHub hiệu quả.
 * Phải trả phí cho các tính năng cao cấp: Một số tính năng của GitHub chỉ có sẵn cho phiên bản trả phí, do đó nếu bạn muốn sử dụng các tính năng này, bạn sẽ phải trả phí.
 ## Tìm hiểu Markdown
+Link video:
 https://www.youtube.com/watch?v=jJky0Ws9xKg&t=19s
 
 ## Tìm hiểu Realease
-https://viblo.asia/p/tao-tag-trong-git-va-tao-release-tren-github-eW65G7Yj5DO
+Link bài viết:
+https://viblo.asia/p/tao-tag-trong-git-va-tao-release-tren-github-eW65G7Yj5DO \
+Link video: https://www.youtube.com/watch?v=0TsWsW0MjMc
 
 # Viết Markdown cho các bài tập ở tuần 1
 ## Week 1
