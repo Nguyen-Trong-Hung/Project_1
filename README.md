@@ -55,6 +55,13 @@ gitlog -decorate -graph -oneline
 * Không phù hợp cho các dự án lớn: Với các dự án lớn, việc quản lý có thể trở nên phức tạp và khó khăn.
 * Bạn phải biết Git để sử dụng: GitHub được xây dựng trên nền tảng Git, do đó nếu bạn không quen thuộc với Git, sẽ khó khăn để sử dụng GitHub hiệu quả.
 * Phải trả phí cho các tính năng cao cấp: Một số tính năng của GitHub chỉ có sẵn cho phiên bản trả phí, do đó nếu bạn muốn sử dụng các tính năng này, bạn sẽ phải trả phí.
+## Tìm hiểu Markdown
+https://www.youtube.com/watch?v=jJky0Ws9xKg&t=19s
+
+## Tìm hiểu Realease
+https://viblo.asia/p/tao-tag-trong-git-va-tao-release-tren-github-eW65G7Yj5DO
+
+# Viết Markdown cho các bài tập ở tuần 1
 ## Week 1
 
 ### Problem 1: Sum Array
