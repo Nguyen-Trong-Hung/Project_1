@@ -39,6 +39,22 @@ Nếu bạn muốn thêm hết file thì dung: git add all
 * git push: push các thay đổi đến remote
 > Cách dùng: git push <:remote:> <:branch:>
 gitlog -decorate -graph -oneline
+
+# Đánh giá
+## Ưu điểm
+* Dễ dàng quản lý Source Code: Khi bạn tạo repo, toàn bộ thành quả sẽ được lưu trên công cụ này và bạn có thể theo dõi lại quá trình mình đã làm việc. 
+* Tracking những thay đổi qua các version: GitHub cho phép bạn theo dõi tất cả các thay đổi của từng phiên bản của mã nguồn.
+* Markdown: GitHub sử dụng Markdown, một ngôn ngữ đánh dấu để ghi chú và giải thích code.
+* Khẳng định chuyên môn: Với GitHub, các lập trình viên có thể chứng minh khả năng của mình với các dự án mà họ đã làm, giúp cải thiện khả năng code của mỗi developer trong một dự án.
+* Kho tài nguyên tuyệt vời: Github cung cấp nhiều tài liệu hướng dẫn và mã nguồn miễn phí cho cộng đồng lập trình viên.
+* GitHub Action: GitHub Action là một tính năng mới được giới thiệu vào năm 2019, giúp tự động hóa các công việc liên quan đến phát triển phần mềm trên GitHub.
+* Github Package Registry: Đây là một tính năng mới của GitHub, cho phép lưu trữ và quản lý các gói phần mềm khác nhau. Nó giúp các developer dễ dàng chia sẻ và tái sử dụng code.
+* Mở rộng quan hệ: GitHub cũng cho phép bạn mở rộng quan hệ với các developer khác, thông qua việc theo dõi hoặc tham gia các dự án của họ.
+
+# Nhược điểm
+* Không phù hợp cho các dự án lớn: Với các dự án lớn, việc quản lý có thể trở nên phức tạp và khó khăn.
+* Bạn phải biết Git để sử dụng: GitHub được xây dựng trên nền tảng Git, do đó nếu bạn không quen thuộc với Git, sẽ khó khăn để sử dụng GitHub hiệu quả.
+* Phải trả phí cho các tính năng cao cấp: Một số tính năng của GitHub chỉ có sẵn cho phiên bản trả phí, do đó nếu bạn muốn sử dụng các tính năng này, bạn sẽ phải trả phí.
 ## Week 1
 
 ### Problem 1: Sum Array
